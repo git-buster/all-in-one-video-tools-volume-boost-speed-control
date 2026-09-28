@@ -2,7 +2,7 @@
 
 **Publisher:** [git-buster](https://github.com/git-buster)  
 **Effective date:** 2026-09-28  
-**Contact:** [GitHub Issues](https://github.com/git-buster/all-in-one-video-tools-volume-boost-speed-contro/issues)
+**Contact:** [GitHub Issues](https://github.com/git-buster/all-in-one-video-tools-volume-boost-speed-control/issues)
 
 This policy describes how the All-in-One Video Tools browser extension handles data. The extension operates locally in the browser and does not require an account.
 
